@@ -3,6 +3,8 @@
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 #EXTINF:0, group-title="cctv", CCTV-2
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:0, group-title="au", >>au
+https://raw.githubusercontent.com/lgjlgj/iptv/test/channels/au.m3u
 #EXTINF:0, group-title="cctv", CCTV-3
 http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 #EXTINF:0, group-title="cctv", CCTV-4

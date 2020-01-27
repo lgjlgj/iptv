@@ -38,9 +38,9 @@ http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:0, group-title="difang", hunan
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 group-title="标清频道",北京文艺 SD
-http://ivi.bjtu.edu.cn/hls/btv2.m3u8 
+http://ivi.bupt.edu.cn/hls/btv2.m3u8 
 #EXTINF:-1 group-title="标清频道",旅游卫视 SD
-http://ivi.bjtu.edu.cn/hls/lytv.m3u8 
+http://ivi.bupt.edu.cn/hls/lytv.m3u8 
 #EXTINF:-1 group-title="标清频道",探索频道 SD
 http://ivi.bjtu.edu.cn/hls/discovery.m3u8 
 #EXTINF:-1 group-title="标清频道",国家地理 SD

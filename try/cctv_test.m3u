@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, group-title="cn", >>cn
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/cn.m3u
 #EXTINF:0, group-title="cctv", CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 #EXTINF:0, group-title="cctv", CCTV-2

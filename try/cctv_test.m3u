@@ -5,6 +5,10 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/channels/hk.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/channels/sg.m3u
 #EXTINF:0, group-title="tw", >>tw
 https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tw.m3u
+#EXTINF:0, group-title="cn", >>cn
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/cn.m3u
+#EXTINF:0, group-title="ca", >>ca
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ca.m3u
 #EXTINF:0, group-title="cctv", CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 #EXTINF:0, group-title="cctv", CCTV-2

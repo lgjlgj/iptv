@@ -13,6 +13,8 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ca.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us.m3u
 #EXTINF:0, group-title="cctv", CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:0, group-title="", >>plus
+https://raw.githubusercontent.com/lgjlgj/iptv/test/try/plus.m3u
 #EXTINF:0, group-title="cctv", CCTV-2
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:0, group-title="au", >>au

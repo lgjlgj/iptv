@@ -59,3 +59,17 @@ https://i.mjh.nz/nz/tv.45.m3u8
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" tvg-country="HK" tvg-url="" group-title="Shop",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",河北购物
+http://weblive.hebtv.com/live/sjgw_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",河北购物
+http://weblive.hebtv.com/live/sjgw_lc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",长沙购物
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="",Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="",Astro Go Shop 2
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/303_300.png" group-title="",Astro Go Shop 新奇贩卖
+https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="",Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8

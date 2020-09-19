@@ -55,3 +55,25 @@ http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 http://v1.proofix.ru/live-vitrina-tv/stream1-ru/playlist.m3u8
 #EXTINF:-1 tvg-id="yuvelirochka" tvg-name="Ювелирочка" tvg-logo="" group-title="Shop",Ювелирочка
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="Shop",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="",Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/303_300.png" group-title="",Astro Go Shop 新奇贩卖
+https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="",Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/RUQASCU.png" group-title="Shop",Shop TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Drxu8Du.png" group-title="Shop",Mediashop TV
+https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" group-title="",Leomax
+https://tvshops.bonus-tv.ru/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="tiop-shop-tv" tvg-name="Top Shop TV" tvg-language="Russian" tvg-logo="" group-title="Shop",Top Shop TV
+https://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="" group-title="",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-language="English" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8

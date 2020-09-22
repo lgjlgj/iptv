@@ -5,8 +5,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0, group-title="news", F24|fr
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:0, group-title="news,sport", Fox Sports|au
-https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
 #EXTINF:0, group-title="news", cgtn-doc|cn
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 

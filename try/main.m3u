@@ -9,17 +9,17 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:0, group-title="hk", >>hk
-https://gitee.com/kodicn/iptv/raw/master/channels/hk.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/hk.m3u
 #EXTINF:0, group-title="sg", >>sg
-https://gitee.com/kodicn/iptv/raw/master/channels/sg.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/sg.m3u
 #EXTINF:0, group-title="tw", >>tw
-https://gitee.com/kodicn/iptv/raw/master/channels/tw.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/tw.m3u
 #EXTINF:0, group-title="cn", >>cn
-https://gitee.com/kodicn/iptv/raw/master/channels/cn.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/cn.m3u
 #EXTINF:0, group-title="ca", >>ca
-https://gitee.com/kodicn/iptv/raw/master/channels/ca.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/ca.m3u
 #EXTINF:0, group-title="us", >>us
-https://gitee.com/kodicn/iptv/raw/master/channels/us.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/us.m3u
 #EXTINF:0, group-title="cctv", CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 #EXTINF:0, group-title="", >>plus
@@ -27,13 +27,13 @@ https://raw.githubusercontent.com/lgjlgj/iptv/test/try/plus.m3u
 #EXTINF:0, group-title="cctv", CCTV-2
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:0, group-title="au", >>au
-https://gitee.com/kodicn/iptv/raw/master/channels/au.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/au.m3u
 #EXTINF:0, group-title="cctv", CCTV-3
 http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 #EXTINF:0, group-title="cctv", CCTV-4
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:0, group-title="jp", >>jp
-https://gitee.com/kodicn/iptv/raw/master/channels/jp.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/jp.m3u
 #EXTINF:0, group-title="cctv", CCTV-5
 http://ivi.bupt.edu.cn/hls/cctv5.m3u8
 #EXTINF:0, group-title="cctv", CCTV-6
@@ -49,9 +49,9 @@ http://ivi.bupt.edu.cn/hls/cctv10.m3u8
 #EXTINF:0, group-title="cctv", CCTV-11
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
 #EXTINF:0, group-title="uk", >>uk
-https://gitee.com/kodicn/iptv/raw/master/channels/uk.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/uk.m3u
 #EXTINF:0, group-title="nz", >>nz
-https://gitee.com/kodicn/iptv/raw/master/channels/nz.m3u
+https://raw.githubusercontent.com/lgjlgj/iptv/master/channels/nz.m3u
 #EXTINF:0, group-title="cctv", CCTV-12
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 #EXTINF:0, group-title="cctv", CCTV-13
